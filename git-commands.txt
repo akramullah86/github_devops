@@ -3,3 +3,4 @@ git add
 git commit -m "message for file"
 git rm file name
 git checkout -b branchname
+this is some new changes
